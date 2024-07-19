@@ -1,1 +1,1 @@
-# algorithm-code
+# 계속 까먹는 알고리즘들 정리
